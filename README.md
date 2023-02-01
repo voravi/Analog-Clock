@@ -1,16 +1,16 @@
-# analog_clock
+# Analog Clock
 
-A new Flutter project.
 
-## Getting Started
+### Light Theme ----------------- : Dark Theme       
 
-This project is a starting point for a Flutter application.
+* Clock Designed With Custom Painter.
+* Dark & Light Theme Available
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/215962556-ac9b0c02-13f8-4a5a-b559-360d8334eff9.jpg" alt="Screenshot_20230131_165018" width=240 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/215962585-fb10072c-338a-43b9-a500-b28f9334b7ca.jpg" alt="Screenshot_20230131_165023" width=240 height=480/>
+  
+  </p>
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
